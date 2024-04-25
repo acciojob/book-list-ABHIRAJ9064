@@ -48,16 +48,6 @@ body {
         border-collapse: collapse;
       }
 
-      .delete {
-        background-color: #dc3545;
-        color: white;
-        width: 30px;
-        height: 10px;
-        padding: auto;
-        text-align: center;
-        border-radius: 5px;
-        cursor: pointer;
-      }
       tr td {
         text-align: center;
         margin-top: 40%;
